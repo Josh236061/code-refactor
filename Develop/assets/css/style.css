@@ -150,6 +150,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: right;
 }
 
 .social-media-marketing {
@@ -192,9 +193,10 @@ p {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align: right;
 }
 
 .footer h2 {
     font-size: 20px;
+    text-align: left;
 }
