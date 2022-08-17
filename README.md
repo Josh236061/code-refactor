@@ -20,7 +20,6 @@ SO THAT our site is optimized for search engines
 
 ## Acceptance Criteria
 
-```
 GIVEN a webpage that meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
